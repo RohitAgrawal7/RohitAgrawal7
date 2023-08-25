@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit M Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitagrawal7&label=Profile%20views&color=0e75b6&style=flat" alt="rohitagrawal7" /> </p>
 
-- 🌱 I’m currently learning **JAAV, JAVASCRIPT, MYSQL**
+- 🌱 I’m currently working on  **JAVA, JAVASCRIPT, MYSQL**
 
 - 📫 How to reach me **rohitmagrawal7@gmail.com**
 
