@@ -1,12 +1,12 @@
 <img src="https://github.com/rohitagrawal7/rohitagrawal7/raw/main/assets/header-banner.gif" alt="Rohit M Agrawal - Full Stack Developer" width="100%"/>
 
-# Rohit M Agrawal
+# 💻 Rohit M Agrawal
 **`Full Stack Developer (Java • Spring Boot • React • Next.js • AWS)`**
 
-I'm a passionate **Full Stack Java & React Developer** from India building scalable, production-ready applications from the ground up — from system design to pixel-perfect UIs.  
+🚀 I'm a passionate **Full Stack Java & React Developer** from India building scalable, production-ready applications from the ground up — from system design to pixel-perfect UIs.  
 I love clean architecture, microservices, cloud deployment, and writing code that solves real-world problems.
 
-Currently working on enterprise-grade backend systems with **Spring Boot 3**, modern frontends with **Next.js 15 + TypeScript**, and deploying everything on **AWS** using Docker & CI/CD.
+💯 Currently working on enterprise-grade backend systems with **Spring Boot 3**, modern frontends with **Next.js 15 + TypeScript**, and deploying everything on **AWS** using Docker & CI/CD.
 
 <p align="center">
   <a href="https://github.com/rohitagrawal7?tab=followers">
